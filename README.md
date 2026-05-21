@@ -199,6 +199,10 @@ FROM productos;
 
 ---
 
+## Diagrama entidad-relación
+
+![Diagrama entidad-relación](./diagrams/diagrama-entidad-relacion.png)
+
 ## Autor
 
 Jorge García
